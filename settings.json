@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "ETERNALBALLZ.aternos.me",
+    "port": 20222,
     "version": "1.21.1"
   },
   "position": {
@@ -35,9 +35,9 @@
         "I like to play Minecraft!"
       ]
     },
-    "chat-log": true,
+    "chat-log": false,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
+    "auto-reconnect-delay": 4000,
     "max-reconnect-delay": 20000,
     "periodic-rejoin": {
       "enabled": true,
@@ -78,7 +78,7 @@
   },
   "discord": {
     "enabled": true,
-    "webhookUrl": "https://discord.com/api/webhooks/1472567640521183243/7DzSIaCSM_9-5DjzrlAuP9Tdj7Y3yAP6BHg3scKzhaRFdVk8ctWBlhOc7I8l5xC6Nqm3",
+    "webhookUrl": "https://discord.com/api/webhooks/1490276261073911890/B4Z8IVTQ0Pz_CiPcPU4C3pq3osNE8mXLlbvkDyRqGwq3t6JTo3F-s18sGs1ufEyH4JyB",
     "events": {
       "connect": true,
       "disconnect": true,
